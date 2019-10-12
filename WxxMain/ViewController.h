@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+- (id)vcFromUrl:(NSString *)url;
 
 @end
 
