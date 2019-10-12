@@ -1,0 +1,21 @@
+PODS:
+  - MGJRouter (0.9.3)
+  - WxxModuleA (0.0.1)
+
+DEPENDENCIES:
+  - MGJRouter (~> 0.9.0)
+  - WxxModuleA
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MGJRouter
+  https://github.com/huahuaCCC/WxxKit.git:
+    - WxxModuleA
+
+SPEC CHECKSUMS:
+  MGJRouter: f65821e2aeffc8f9e84b254c8f1c0dd80f048aa9
+  WxxModuleA: a485004a67a676e8b915e52a1a5472f2e9a105b9
+
+PODFILE CHECKSUM: f172975b31a082928015fb0d1d6daeef50fe0aaa
+
+COCOAPODS: 1.8.3
